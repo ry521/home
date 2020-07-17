@@ -1678,34 +1678,14 @@ http://nclive.grtn.cn/tvs5/sd/live.m3u8
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=227&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
-http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
-http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
-http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
-http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
-http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,优漫卡通
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,嘉佳卡通
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,嘉佳卡通
-http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,金鹰卡通
 http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,金鹰卡通
-http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,金鹰卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,哈哈炫动
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,卡酷少儿
 http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
-#EXTINF:-1 group-title="【少儿频道】" ,卡酷少儿
-http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,FZTV-少儿
 http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,CCTV-14少儿
@@ -1713,48 +1693,12 @@ http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1 group-title="【少儿频道】" ,Beat动画
 http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&amp;IASHttpSessionId=OTT3830220200305010224092360
 
-#EXTINF:-1 group-title="【体育频道】" ,NBA
-mitv://147.135.39.171:9906/5d9a323b00044aa29ccf7a49573928f7.ts
-#EXTINF:-1 group-title="【体育频道】" ,CCTV-5体育
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,CCTV-5?体育
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 group-title="【体育频道】" ,精品体育
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,精品体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 #EXTINF:-1 group-title="【体育频道】" ,自由搏击
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,自由搏击
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,自由搏击
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,自由搏击
-http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 #EXTINF:-1 group-title="【体育频道】" ,超级体育
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,超级体育
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,超级体育
-http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,超级体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,超级体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 group-title="【体育频道】" ,超级体育
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 
 #EXTINF:-1 group-title="【全球频道】" ,美国 Ⅰ 中国环球
 http://live.cgtn.com/1000/prog_index.m3u8
