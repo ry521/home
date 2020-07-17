@@ -838,10 +838,7 @@ http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="港澳台",信吉电视
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+
 
 #EXTINF:-1 group-title="【New频道】" ,黑莓电影
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
