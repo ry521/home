@@ -836,9 +836,79 @@ http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 group-title="【港澳频道】" ,凤凰资讯
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 group-title="港澳台",香港卫视
+#EXTINF:-1 group-title="【港澳频道】",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+#EXTINF:-1 group-title="【台湾频道】",台湾民视新闻台
+https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾民视新闻台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:-1 group-title="【台湾频道】",台湾壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+#EXTINF:-1 group-title="【台湾频道】",中天新闻
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",中天新闻
+http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 group-title="【台湾频道】",东森新闻1台
+http://125.227.35.176:18080/CtiNews/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",东森新闻1台
+http://60.250.23.14:18080/CtiNews/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",东森新闻台
+http://60.250.23.14:18080/CtiNews/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",非凡新闻台
+http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+rtmp://dv2.tp33.net/sat/tv551
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+rtmp://dv2.tp33.net/sat/tv552
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+rtmp://dv2.tp33.net:1935/sat/tv551
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+rtmp://dv2.tp33.net:1935/sat/tv552
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 group-title="【台湾频道】",TVBS
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",番薯TV
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 group-title="【台湾频道】",台视HD
+rtmp://dv2.tp33.net/sat/tv071
+#EXTINF:-1 group-title="【台湾频道】",台视HD
+rtmp://dv2.tp33.net/sat/tv072
+#EXTINF:-1 group-title="【台湾频道】",台视HD
+rtmp://dv2.tp33.net:1935/sat/tv072
+#EXTINF:-1 group-title="【台湾频道】",台视HD
+rtmp://dv2.tp33.net:1935/sat/tv071
+#EXTINF:-1 group-title="【台湾频道】",台视HD
+http://125.227.35.176:18080/CTS/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",中视HD
+rtmp://dv2.tp33.net/sat/tv092
+#EXTINF:-1 group-title="【台湾频道】",中视HD
+rtmp://dv2.tp33.net:1935/sat/tv092
+#EXTINF:-1 group-title="【台湾频道】",中视HD
+rtmp://dv2.tp33.net:1935/sat/tv091
+#EXTINF:-1 group-title="【台湾频道】",中视HD
+rtmp://dv2.tp33.net/sat/tv091
+#EXTINF:-1 group-title="【台湾频道】",民视
+http://125.227.35.176:18080/ftv/index.m3u8
+#EXTINF:-1 group-title="【台湾频道】",华视
+rtmp://dv2.tp33.net/sat/tv111
+#EXTINF:-1 group-title="【台湾频道】",华视
+rtmp://dv2.tp33.net/sat/tv112
+#EXTINF:-1 group-title="【台湾频道】",华视
+rtmp://dv2.tp33.net:1935/sat/tv111
+#EXTINF:-1 group-title="【台湾频道】",华视
+rtmp://dv2.tp33.net:1935/sat/tv112
 
 #EXTINF:-1 group-title="【New频道】" ,黑莓电影
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
