@@ -1,0 +1,59 @@
+#app {
+  height: 100% !important;
+}
+
+#app .settingBtn:hover,
+#app .editBtn:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+#app .promptShadow {
+  width: 15%;
+  height: 100%;
+}
+#app .previousShadow {
+  left: 0;
+}
+#app .nextShadow {
+  right: 0;
+}
+
+#app #settingDrawer {
+  width: 400px;
+  max-width: 100%;
+  height: 100vh;
+  top: 0;
+  right: 0;
+}
+.drawerShow-enter-active,
+.drawerShow-leave-to {
+  transition: all 0.5s ease;
+}
+.drawerShow-enter,
+.drawerShow-leave-to {
+  transform: translateX(400px);
+}
+#navigationBar .pageBtns .pageBtn,
+#navigationBar .navigationList .page .webInfo,
+#searchBar .searchBox .searchBtn,
+#searchBar .searchBox .searchEngineInner,
+#searchBar .searchEngineTabs .searchEngineTab,
+#searchBar .searchBox .searchSuggestions li,
+.searchHistory li {
+  cursor: pointer;
+}
+#navigationBar .navigationList .page .webInfoHover:hover {
+  transition: all 0.4s ease;
+  transform: translateY(-8px);
+}
+#searchBar .searchBox .searchSuggestions li:hover {
+  box-shadow: 0 0 32px -10px rgba(0, 0, 0, 0.5);
+}
+.searchHistory li:hover {
+  background-color: #eee;
+}
+/* pc端不显示 */
+.mobileShow {
+  display: none !important;
+}
